@@ -2,7 +2,8 @@
 ### New decentralized internet
 ### Blokchain-powered cloud computing
 
-[Peer2peer.io](http://peer2peer.io)
+Website: [Peer2peer.io](http://peer2peer.io)
+Kanban [board](https://waffle.io/peer2peer-io/home)
 
 ## Perface:
 Today most of the computing power controlled by several corporations and couple of governments. This creates field for abuse.
