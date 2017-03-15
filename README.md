@@ -2,5 +2,5 @@
 ### New decentralized internet
 ### Blokchain-powered cloud computing
 
-[Peer2peer.io](peer2peer.io)
+[Peer2peer.io](http://peer2peer.io)
 
