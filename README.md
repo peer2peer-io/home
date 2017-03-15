@@ -25,12 +25,13 @@ For capacity consumers:
 - No depandancy on signle provider or single government (no locks, bans, information leaks, etc)
 - Increased privacy due to payload distributed across multiple providers.
 - Auditable security and privacy standards due to open-source stack. 
-- Appealing performance of [GIG](https://www.greenitglobe.com/) cloud technology.
+- Enterprise-level feature set and appealing performance of [GIG](https://www.greenitglobe.com/) cloud technology.
 - Single point of access to multiple capacity providers.
 
 For capacity providers:
 - Cloud market is making ~40% CAGR. 89% controlled by big corporations in US (Goolge, Apple, Microsoft). Right now there is almost no possibility of competition for small providers. Peer2peer.io create a marketplaces and gives market opportunity for micro, small and medium size cloud providers. 
 - No need of custom infrastructure: ready-made technology stack.
 - Transparent billing and accounting system.
+- Lowest possible cost of ownership.
 
 
