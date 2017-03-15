@@ -27,6 +27,7 @@ For capacity consumers:
 - Auditable security and privacy standards due to open-source stack. 
 - Appealing performance of [GIG](https://www.greenitglobe.com/) cloud technology.
 - Single point of access to multiple capaity providers.
+
 For capacity providers:
 - Market opportunity for micro, small and medium size cloud providers to jump into the market. 
 - No need of custom infrastructure: ready-made technology stack.
