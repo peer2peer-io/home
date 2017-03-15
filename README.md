@@ -4,10 +4,21 @@
 
 [Peer2peer.io](http://peer2peer.io)
 
+## Perface:
+Today most of the computing power controlled by several corporations and couple of governments. This creates field for abuse.
+We belive that internet should be decentralized. Complexity of IT systems is growing every year and it becomes more and more expensive to operate IT systems. We belive it should be possible to use it as easy as we use electricity today. We call this "IT as Energy" concept. 
+What does it mean:
+- Available on demand on whatever capacity needed. 
+- Billed according to useage.
+- Unified and simple interface for multiple use-cases. 
+
+## Concept
+
 Peer2peer.io is a blockchain-controlled, decentralized cloud computing engine. 
 Initial implementation is based on sia.tech blockchain and openvcloud cloud platform. 
 
-## Perface:
-Today most of the computing power controlled by several corporations and couple of governments. This creates field for abuse.
-We belive that internet should be decentralized. 
+<img src="https://docs.google.com/drawings/d/1hWBM6_sGXKMrYsNnzyhlS2m7noTUquLfEVBPK2GzHDE/pub?w=960&amp;h=720">
+
+
+## 
 
