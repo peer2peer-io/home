@@ -37,15 +37,20 @@ For capacity providers:
 #### Feature Roadmap
 
 ##### Stage 1: PoC
-1. Make openvcloud instancec discovery though sia blockchain: replace sia's storage announce with the simplest possible form of integration with openvcloud instance. 
-2. 
+Make openvcloud instance discovery though sia blockchain: replace sia's storage announce with the simplest possible form of integration with openvcloud instance. 
 
 ##### Stage 2: MVP
+1. Launch payment token and billing system.
+2. Allow different istances
+3. Add baisc identity management: private-public key identites.
 
 ##### Stage 3: Full featureset of openvcloud
+Full featureset of openvcloud available and billable
 
 ##### Stage 4: Advanced identity management on blockchain (itsyou.online)
+Integrate with ityou.online identity management platform and implemnet groups, ACLs
 
 ##### Stage 5: Encrypted blockchain storage stack
+Replace existing storage layer tied to specific node to blockchain-controlled storage layer. 
 
 
