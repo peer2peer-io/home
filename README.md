@@ -34,4 +34,18 @@ For capacity providers:
 - Transparent billing and accounting system.
 - Lowest possible cost of ownership.
 
+#### Feature Roadmap
+
+##### Stage 1: PoC
+1. Make openvcloud instancec discovery though sia blockchain: replace sia's storage announce with the simplest possible form of integration with openvcloud instance. 
+2. 
+
+##### Stage 2: MVP
+
+##### Stage 3: Full featureset of openvcloud
+
+##### Stage 4: Advanced identity management on blockchain (itsyou.online)
+
+##### Stage 5: Encrypted blockchain storage stack
+
 
