@@ -29,7 +29,7 @@ For capacity consumers:
 - Single point of access to multiple capacity providers.
 
 For capacity providers:
-- Cloud market is making ~40% CAGR. 89% controlled by big corporations in US (Goolge, Amazon, etc). Right now there is almost no possibility of competition for small providers. Peer2peer.io create a marketplaces and gives market opportunity for micro, small and medium size cloud providers. 
+- Cloud market is making ~40% CAGR. 89% controlled by big corporations in US (Goolge, Amazon, etc). Right now there is almost no possibility of competition for small providers. Peer2peer.io creates a marketplaces and gives market opportunity for micro, small and medium size cloud providers. 
 - No need of custom infrastructure: ready-made technology stack.
 - Transparent billing and accounting system.
 - Lowest possible cost of ownership.
