@@ -19,6 +19,17 @@ Initial implementation is based on sia.tech blockchain and openvcloud cloud plat
 
 <img src="https://docs.google.com/drawings/d/1hWBM6_sGXKMrYsNnzyhlS2m7noTUquLfEVBPK2GzHDE/pub?w=960&amp;h=720">
 
+#### Why it should be interesting for both capacity providers and capacity consumers?
+For capacity consumers:
+- More fair pricing comared to traditional cloud services due to built-in marketplace.
+- No depandancy on signle provider or single government (no locks, bans, information leaks, etc)
+- Increased privacy due to payload distributed across multiple providers.
+- Auditable security and privacy standards due to open-source stack. 
+- Appealing performance of [GIG](https://www.greenitglobe.com/) cloud technology.
+- Single point of access to multiple capaity providers.
+For capacity providers:
+- Market opportunity for micro, small and medium size cloud providers to jump into the market. 
+- No need of custom infrastructure: ready-made technology stack.
+- Transparent billing and accounting system.
 
-## 
 
