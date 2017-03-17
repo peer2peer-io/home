@@ -56,3 +56,7 @@ Integrate with ityou.online identity management platform and implemnet groups, A
 Replace existing storage layer tied to specific node to blockchain-controlled storage layer. 
 
 
+Ideas/Features:
+It should be available to dapps and smart contracts. We need gateways with Ethereum/ETC networks.
+
+
