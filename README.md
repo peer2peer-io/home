@@ -57,6 +57,6 @@ Replace existing storage layer tied to specific node to blockchain-controlled st
 
 
 Ideas/Features:
-It should be available to dapps and smart contracts. We need gateways with Ethereum/ETC networks.
-
-
+It should be available to dapps and smart contracts. We need gateways with Ethereum/ETC networks. 
+Consumers should be able to pay with bitcoin/ethereum, etc. Though trusted gateways.
+Corporate consumers should be able to able to pay with traditional ways (banking system). They transfer payment to one of the nodes (providers) and provider sells them tokens, or they can say its "computational credits".
