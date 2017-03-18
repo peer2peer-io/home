@@ -69,7 +69,8 @@ Ideas/Features:
 - [storj.io](https://storj.io/)
 - [sia.tech](http://sia.tech/)
 - [maidsafe.net](https://maidsafe.net/) 
-All of them is funded and initial versions of networks functioning. You can use them to store data. 
+
+All of these is funded and initial versions of networks functioning. You can use them to store data. 
 
 ##### Other interesting projects in related fields:
 - [sovrin.org](https://www.sovrin.org/) - decentralied identity, project funded and have good development progress.
