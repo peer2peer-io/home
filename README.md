@@ -61,7 +61,7 @@ Ideas/Features:
 - Consumers should be able to pay with bitcoin/ethereum, etc. Though trusted gateways.
 - Corporate consumers should be able to able to pay with traditional ways (banking system). They transfer payment to one of the nodes (providers) and provider sells them tokens, or they can say its "computational credits".
 
-### Some projects working in similar direction:
+### Some projects working in similar or related directions:
 #### Distributed computing networks:
 - [iex.ec](http://iex.ec/) - blockchain-based distributed computing - they have no plans to provide ability to launch virtual servers, its more distributed computing network for high-demanding tasks. ICO is coming.
 - [golem.network](https://golem.network) - similar to above, raised $8.6M on ICO.
