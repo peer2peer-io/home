@@ -60,3 +60,18 @@ Ideas/Features:
 - It should be available to dapps and smart contracts. We need gateways with Ethereum/ETC networks. 
 - Consumers should be able to pay with bitcoin/ethereum, etc. Though trusted gateways.
 - Corporate consumers should be able to able to pay with traditional ways (banking system). They transfer payment to one of the nodes (providers) and provider sells them tokens, or they can say its "computational credits".
+
+### Some projects working in similar direction:
+#### Distributed computing networks:
+- [iex.ec](http://iex.ec/) - blockchain-based distributed computing - they have no plans to provide ability to launch virtual servers, its more distributed computing network for high-demanding tasks. ICO is coming.
+- [golem.network](https://golem.network) - similar to above, raised $8.6M on ICO.
+##### Distributed storage networks:
+- [storj.io](https://storj.io/)
+- [sia.tech](http://sia.tech/)
+- [maidsafe.net](https://maidsafe.net/) 
+All of them is funded and initial versions of networks functioning. You can use them to store data. 
+
+##### Other interesting projects in related fields:
+- [sovrin.org](https://www.sovrin.org/) - decentralied identity, project funded and have good development progress.
+- [enigma.co](http://www.enigma.co/) - secure data sharing. Looks like project is dead but may be useful to study their research. 
+
